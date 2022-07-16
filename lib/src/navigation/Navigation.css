@@ -19,8 +19,10 @@
 
 .navigation li a{
 	color: #000;
+	cursor: pointer;
 }
 
 .all-nav{
 	background-color: #FFBBBB;
+	padding: 20px;
 }
